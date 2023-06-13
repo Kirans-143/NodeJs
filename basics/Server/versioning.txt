@@ -1,0 +1,13 @@
+// Version
+
+"express": "^4.18.2"
+1st part - 4  => Major Release - Major / Breaking Update
+2nd part - 18 => Recommended Bug Fix(secuirity)
+3rd part - 2 => Minor Fixes(Optional Update)
+
+
+
+"express": "^4.18.2" => ^ means we can install version from 4.0.0<= version <5.0.0
+^ - install all Recommended and Minor Bug  Fixes automatically
+
+
